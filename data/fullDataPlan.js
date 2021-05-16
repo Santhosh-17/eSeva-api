@@ -8,25 +8,25 @@ const data = [
             
            <h3> Minimum Basic Requirements</h3>
             <ol>
-            <li> Water Supply</br>&emsp;Drinking water supply works like provision of power pump, extension of pipeline, augmentation of existing source shall be taken up depending upon the requirement.</br></li></br> 
-            <li> Street Lights</br>&emsp;New streetlights will be provided in the new habitations, extension areas, Adi-Dravidar & Tribal habitations and IAY housing colonies, based on the actual needs. Additional street lights, including solar powered lights will be provided in the areas where the existing coverage is felt inadequate.</li> </br>
-            <li> Cement Concrete Roads</br>&emsp;Pavements with residential units on sides, streets or lanes prone to water logging, part of the uncovered portion where a portion of the street has already been covered with cement concrete, will be taken up on priority.</li> </br>
-            <li> Link Roads</br>&emsp;Link roads will cover bus-plying roads, upgradation of WBM roads to BT roads connecting two or more habitations in the same Panchayat and upgradation of earthen/gravel roads.</li> </br>
-            <li> Cremation / Burial Grounds</br>&emsp; Each burial ground / cremation ground will be provided with approach road, compound wall, cremation shed, water facility and lights.</li> </br>
-            <li> Pathway to Burial Ground</br>&emsp;
+            <li> Water Supply</br></br>&emsp;Drinking water supply works like provision of power pump, extension of pipeline, augmentation of existing source shall be taken up depending upon the requirement.</br></li></br> 
+            <li> Street Lights</br></br>&emsp;New streetlights will be provided in the new habitations, extension areas, Adi-Dravidar & Tribal habitations and IAY housing colonies, based on the actual needs. Additional street lights, including solar powered lights will be provided in the areas where the existing coverage is felt inadequate. </br></li>
+            <li> Cement Concrete Roads</br></br>&emsp;Pavements with residential units on sides, streets or lanes prone to water logging, part of the uncovered portion where a portion of the street has already been covered with cement concrete, will be taken up on priority. </br></li>
+            <li> Link Roads</br></br>&emsp;Link roads will cover bus-plying roads, upgradation of WBM roads to BT roads connecting two or more habitations in the same Panchayat and upgradation of earthen/gravel roads. </br></li>
+            <li> Cremation / Burial Grounds</br></br>&emsp; Each burial ground / cremation ground will be provided with approach road, compound wall, cremation shed, water facility and lights. </br></li>
+            <li> Pathway to Burial Ground</br></br>
             <ul>
-                    <li>Wherever the pathway is already available, improvement of the existing pathway will be taken up and wherever pathway is not available, top priority will be given to provide approach road or pathway.</li> </br>
-                    <li>The additional requirements and other permitted works will be taken up based on the need and necessity. Apart from THAI, the scheme will be implemented by dovetailing funds, from various schemes of Rural Development & Panchayat Raj Department and schemes of other Departments.</li> </br>
+                    <li>Wherever the pathway is already available, improvement of the existing pathway will be taken up and wherever pathway is not available, top priority will be given to provide approach road or pathway. </br></li>
+                    <li>The additional requirements and other permitted works will be taken up based on the need and necessity. Apart from THAI, the scheme will be implemented by dovetailing funds, from various schemes of Rural Development & Panchayat Raj Department and schemes of other Departments. </br></li>
             </ul>
-            </li> </br>
-            <li> Scheme Implementation
+            </li>
+            <li> Scheme Implementation</br></br>
                 <ul>
-                    <li>The Scheme was implemented in 5 phases from 2011-12 to 2015-16.</li> </br>
-                    <li>During 2011-12, a total of 25,335 habitations in 2,020 Village Panchayats were selected for implementation with an annual allocation of Rs. 680 crore.</li> </br>
-                    <li>During 2012-13, this programme was implemented in 18,581 habitations of 2,250 Village Panchayats with an annual allocation of Rs.750 crore.</li> </br>
+                    <li>The Scheme was implemented in 5 phases from 2011-12 to 2015-16. </br></li>
+                    <li>During 2011-12, a total of 25,335 habitations in 2,020 Village Panchayats were selected for implementation with an annual allocation of Rs. 680 crore. </br></li>
+                    <li>During 2012-13, this programme was implemented in 18,581 habitations of 2,250 Village Panchayats with an annual allocation of Rs.750 crore. </br></li>
                     </ul>
-                    </li> </br>
-                    </ol>`,
+                </li>
+            </ol>`,
         link: `https://tnrd.gov.in/schemes/st_thai.php`
     },
     {
@@ -38,78 +38,77 @@ const data = [
         <p>&emsp;Construction of houses under “Chief Minister’s Solar Powered Green House Scheme” ordered by the Honourable Chief Minister is another milestone in the history of rural housing which clearly addresses the  shelter needs in rural areas. Nowhere in the country is such a free housing scheme for the construction of houses with an area of 300 sq.ft with solar powered lighting implemented.</p>
         
         <ol> 
-        <li>Salient features of the Scheme
+        <li>Salient features of the Scheme</br></br>
             <ul>       
-            <li>All the people living below poverty line in rural areas are eligible for Solar Powered Green Houses.</li> </br>
-            <li>Each house is built with an area of 300 square feet at a unit cost of Rs.1.80 lakh fully funded by the State Government.</li> </br>
+            <li>All the people living below poverty line in rural areas are eligible for Solar Powered Green Houses. </br></li>
+            <li>Each house is built with an area of 300 square feet at a unit cost of Rs.1.80 lakh fully funded by the State Government. </br></li>
             <li>Each house consists of a living room, bed room, kitchen, toilet and verandah apart from Rain Water Harvesting provision.</li></br>
-            <li>Each house is provided with 5 solar powered Compact Fluorescent Lamps (CFL), one each in bed room, living room, kitchen, toilet and verandah.  Each beneficiary is given the option to have an electric connection powered by TNEB, which will be metered.</li> </br>
-            <li>The unit cost is Rs.1.80 lakh per house @Rs.1.50 lakh for construction and Rs.30,000/- for Solar Powered Lights.</li> </br>
-            <li>The RD & PR Department is entrusted with the construction of houses and Tamil Nadu Energy Development Agency (TEDA) is the implementing agency for solar lighting component.</li> </br>
-            <li>The Green Houses are constructed either insitu (replacing his/her existing dwelling structure) or in the land owned by the beneficiary elsewhere in the Village Panchayat.  No land acquisition is envisaged under this scheme.  Only people with patta for their sites are eligible under this scheme.</li> </br>
-            <li>The supply, installation and commissioning of solar panels and lights are undertaken directly by TEDA by following established procedures in      co-ordination with the Project Directors of District Rural Development Agencies.</li> </br>
+            <li>Each house is provided with 5 solar powered Compact Fluorescent Lamps (CFL), one each in bed room, living room, kitchen, toilet and verandah.  Each beneficiary is given the option to have an electric connection powered by TNEB, which will be metered. </br></li>
+            <li>The unit cost is Rs.1.80 lakh per house @Rs.1.50 lakh for construction and Rs.30,000/- for Solar Powered Lights. </br></li>
+            <li>The RD & PR Department is entrusted with the construction of houses and Tamil Nadu Energy Development Agency (TEDA) is the implementing agency for solar lighting component. </br></li>
+            <li>The Green Houses are constructed either insitu (replacing his/her existing dwelling structure) or in the land owned by the beneficiary elsewhere in the Village Panchayat.  No land acquisition is envisaged under this scheme.  Only people with patta for their sites are eligible under this scheme. </br></li>
+            <li>The supply, installation and commissioning of solar panels and lights are undertaken directly by TEDA by following established procedures in      co-ordination with the Project Directors of District Rural Development Agencies. </br></li>
              </ul> 
-        </li> </br>  
-        <li> Quality Control & Inspection
+         </br></li>  
+        <li> Quality Control & Inspection</br></br>
             <ul>
-                  <li>TEDA will engage Project Management Consultants (PMC) and a third party inspection agency, whose responsibility is to ensure that all the materials used and the workmanship practiced conform to the prescribed specifications.  The inspection will cover quality checks of major materials at pre-shipment stage at the vendor’s outlet.</li> </br>
-                  <li>The PMC will ensure that 100% of the lights are installed after inspection.  Any defect in the SPV Home Lighting System will be brought to the notice of TEDA by the beneficiary/ Panchayat/ Block/ District Administration for immediate rectification.</li> </br>
-                  <li>In case the quality check reveals that the work is not satisfactory, the implementing agency (TEDA) shall ensure replacement of  the material or rectification of the defective workmanship, as the case may be, within the stipulated time.  All works rated unsatisfactory shall be re-inspected after the rectification report is received from the contractor.  Funds will be released to the commissioning agencies only after receiving satisfactory inspection reports. TEDA will designate an appropriate senior officer as incharge of the Monitoring system.</li> </br>
+                  <li>TEDA will engage Project Management Consultants (PMC) and a third party inspection agency, whose responsibility is to ensure that all the materials used and the workmanship practiced conform to the prescribed specifications.  The inspection will cover quality checks of major materials at pre-shipment stage at the vendor’s outlet. </br></li>
+                  <li>The PMC will ensure that 100% of the lights are installed after inspection.  Any defect in the SPV Home Lighting System will be brought to the notice of TEDA by the beneficiary/ Panchayat/ Block/ District Administration for immediate rectification. </br></li>
+                  <li>In case the quality check reveals that the work is not satisfactory, the implementing agency (TEDA) shall ensure replacement of  the material or rectification of the defective workmanship, as the case may be, within the stipulated time.  All works rated unsatisfactory shall be re-inspected after the rectification report is received from the contractor.  Funds will be released to the commissioning agencies only after receiving satisfactory inspection reports. TEDA will designate an appropriate senior officer as incharge of the Monitoring system. </br></li>
             </ul>
-        </li> </br>
+         </br></li>
         <li>Eligibility of the Beneficiaries
         
         <h4>The beneficiary should:</h4>
         <ul>
-        <li>Reside within the Village Panchayat</li> </br>
-        <li>Find a place in the BPL permanent wait list of the Village Panchayat;</li> </br>
-        <li>Own a site of not less than 300 sq.ft. area</li> </br>
-        <li>Have clear patta for the site/house in the name of the head of the family or any other member of the household</li> </br>
-        <li>Not own any other pucca concrete house in the village or elsewhere</li> </br>
-        <li>Not have been benefited under any other housing scheme of the Government.</li> </br>
+        <li>Reside within the Village Panchayat </br></li>
+        <li>Find a place in the BPL permanent wait list of the Village Panchayat; </br></li>
+        <li>Own a site of not less than 300 sq.ft. area </br></li>
+        <li>Have clear patta for the site/house in the name of the head of the family or any other member of the household </br></li>
+        <li>Not own any other pucca concrete house in the village or elsewhere </br></li>
+        <li>Not have been benefited under any other housing scheme of the Government. </br></li>
         </ul>
-        </li> </br>
+         </br></li>
         
-        <li> Mode of Selection of Beneficiaries
+        <li> Mode of Selection of Beneficiaries</br></br>
         <ul>
-        <li>A permanent wait list of BPL for each Village Panchayat should be drawn and the poorest of the poor should be selected.</li> </br>
-        <li>While preparing the list of beneficiaries, priority should be given to differently abled, widows, destitute and deserted women, women headed families, transgender, HIV/AIDS/TB affected who are certified by the Deputy Director (Health Services) concerned and victims of natural calamities such as fire, flood, etc.  Priority shall also be given to households having a mentally challenged person in the family.</li> </br>
-        <li>Any eligible poor person whose name does not figure in the BPL list can apply to the Block Development Officer and an Assistant Director level officer of RD&PR Department may verify the fact and with the concurrence of District Collector, his name may be included in the BPL list and approval of Grama Sabha shall be obtained for the same.  In the event of inclusion, his/her name will become a part of the permanent wait list and considered for selection accordingly.</li> </br>
-        <li>The Village Panchayat should draw a list of eligible beneficiaries living below poverty line under this scheme and place it before the Grama Sabha for its approval.</li> </br>
+        <li>A permanent wait list of BPL for each Village Panchayat should be drawn and the poorest of the poor should be selected. </br></li>
+        <li>While preparing the list of beneficiaries, priority should be given to differently abled, widows, destitute and deserted women, women headed families, transgender, HIV/AIDS/TB affected who are certified by the Deputy Director (Health Services) concerned and victims of natural calamities such as fire, flood, etc.  Priority shall also be given to households having a mentally challenged person in the family. </br></li>
+        <li>Any eligible poor person whose name does not figure in the BPL list can apply to the Block Development Officer and an Assistant Director level officer of RD&PR Department may verify the fact and with the concurrence of District Collector, his name may be included in the BPL list and approval of Grama Sabha shall be obtained for the same.  In the event of inclusion, his/her name will become a part of the permanent wait list and considered for selection accordingly. </br></li>
+        <li>The Village Panchayat should draw a list of eligible beneficiaries living below poverty line under this scheme and place it before the Grama Sabha for its approval. </br></li>
         </ul>
-        </li> </br>
-        <li> Selection of the Beneficiaries
+         </br></li>
+        <li> Selection of the Beneficiaries</br></br>
         <ul>
-            <li>From the list of eligible beneficiaries, a Committee comprising of Block Development Officer (Village Panchayats), Deputy Block Development Officer and Village Panchayat President concerned shall select the genuine BPL beneficiary as per guidelines and the final list of selected beneficiaries identified by the Committee should be placed before the Grama Sabha for its approval.</li> </br>
+            <li>From the list of eligible beneficiaries, a Committee comprising of Block Development Officer (Village Panchayats), Deputy Block Development Officer and Village Panchayat President concerned shall select the genuine BPL beneficiary as per guidelines and the final list of selected beneficiaries identified by the Committee should be placed before the Grama Sabha for its approval. </br></li>
         </ul>
-        </li> </br>
-        <li> Allocation of Houses
+         </br></li>
+        <li> Allocation of Houses</br></br>
         <ul>
         
-            <li>At the State level, the Commissioner of Rural Development & Panchayat Raj shall allocate the number of houses to be constructed under this Scheme for each district in a year.</li> </br>
-            <li>At the District level, the District Collector shall decide the allotment of houses to the Village Panchayats.</li> </br>
-            <li>The Village Panchayats should allocate the houses to the selected beneficiaries based on the priority category of people found in the BPL Permanent Wait List approved by the Grama Sabha.</li> </br>
+            <li>At the State level, the Commissioner of Rural Development & Panchayat Raj shall allocate the number of houses to be constructed under this Scheme for each district in a year. </br></li>
+            <li>At the District level, the District Collector shall decide the allotment of houses to the Village Panchayats. </br></li>
+            <li>The Village Panchayats should allocate the houses to the selected beneficiaries based on the priority category of people found in the BPL Permanent Wait List approved by the Grama Sabha. </br></li>
          </ul>
-         </li> </br> 
-        <li> Supply of Materials
+          </br></li> 
+        <li> Supply of Materials</br></br>
         <ul>
-        <li>Cement</br>esmp;At the State level, necessary steps will be taken to ensure smooth supply of cement for construction of houses at Village Panchayats.  Cement supply shall be arranged through M/s. TANCEM and the payment may be made by the DRDA at District level and the amount will be adjusted from the scheme fund.</li> </br>
+        <li>Cement</br></br>esmp;At the State level, necessary steps will be taken to ensure smooth supply of cement for construction of houses at Village Panchayats.  Cement supply shall be arranged through M/s. TANCEM and the payment may be made by the DRDA at District level and the amount will be adjusted from the scheme fund. </br></li>
         
-        <li>Steel</br>&emsp;Similarly, Project Directors of DRDAs should take necessary steps to procure steel based on the needs of their district and payment will be made by the DRDAs at District level and the amount will be adjusted from the scheme fund.
+        <li>Steel</br></br>&emsp;Similarly, Project Directors of DRDAs should take necessary steps to procure steel based on the needs of their district and payment will be made by the DRDAs at District level and the amount will be adjusted from the scheme fund.</br></li>
         
-        <li>Doors and Windows</br>&emsp;
+        <li>Doors and Windows</br></br>&emsp;
                 Beneficiaries themselves can arrange for doors and windows. If the beneficiary is unable to arrange for doors and windows, the PD,DRDA should arrange for supply of the same and the cost will be deducted from the scheme fund .
-                For all the above procurements, the PDs of DRDA should work out the total quantity of materials needed for their district based on the number of houses allocated to them.
-        </ul
-        ></li> </br>
-        <li> Mode of Implementation
+                For all the above procurements, the PDs of DRDA should work out the total quantity of materials needed for their district based on the number of houses allocated to them.</br></li>
+        </ul> </br></li>
+        <li> Mode of Implementation</br></br>
         <ul>
-            <li>Administrative sanction for the scheme based on the district allocation for each year shall be accorded by the District Collector.</li> </br>
-            <li>The execution of the scheme is entrusted to the BDO (Block Panchayat).</li> </br>
-            <li>The Block Engineers shall be responsible for the construction and other technical aspects of construction. The Assistant Executive Engineers shall check measure the progress of the houses.</li> </br>
-            <li>The Project Directors, DRDA, Executive Engineers and Assistant Executive Engineers (RD) should frequently inspect the execution and progress of the houses and ensure early completion. They should also ensure no deviation from the type design or any other discrepancies under this scheme.</li> </br>
+            <li>Administrative sanction for the scheme based on the district allocation for each year shall be accorded by the District Collector. </br></li>
+            <li>The execution of the scheme is entrusted to the BDO (Block Panchayat). </br></li>
+            <li>The Block Engineers shall be responsible for the construction and other technical aspects of construction. The Assistant Executive Engineers shall check measure the progress of the houses. </br></li>
+            <li>The Project Directors, DRDA, Executive Engineers and Assistant Executive Engineers (RD) should frequently inspect the execution and progress of the houses and ensure early completion. They should also ensure no deviation from the type design or any other discrepancies under this scheme. </br></li>
         </ul>
-            </li> </br>
+        </li>
             </ol>`,
         link:`https://tnrd.gov.in/schemes/st_cmspghs.php`
     },
@@ -141,25 +140,25 @@ const data = [
              
                <p>&emsp;The District Collectors will accord administrative sanction for the chosen works and also identify the implementing agency. A sum of Rs.1.10 crore is earmarked as Tied Funds for Priority Works and for the remaining Rs. 90 lakh, the MLAs can choose works of their choice as per the guidelines of the scheme.</p>
             
-               <h4>In Rural & Urban Areas<h4>
+               <h4>In Rural & Urban Areas</h4>
                <ol>
-               <li> Installation of Solar Street Lights in rural areas/Roof top solar power in Government buildings/LED street lights in rural areas.</li> </br>
-               <li> Upgradation of Gravel / WBM Roads to BT Standard</li> </br>
-               <li> Renewal of badly worn-out BT roads (laying of BT layer only with filling up of potholes, if necessary)</li> </br>
-               <li> Laying of Cement concrete Roads</li> </br>
-               <li> Provision of rooms, buildings and / or compound walls for Government and Local Body Hospitals, Primary Health Centres, Government Veterinary Hospitals, Government Schools, Panchayat Union Schools, Adi Dravidar Welfare Schools, Kallar Reclamation Schools, Government Colleges, Government Hostels, Government ITIs and Government Polytechnics.</li> </br>
-               <li> Provision of infrastructure facilities to Government Special Schools for the differently-abled and Government Orphanages.</li> </br>
-               <li> Construction of Bridges.</li> </br>
-               <li> Provision of additional Burial Grounds / Cremation Grounds to the Village Panchayats, such facilities and provision of infrastructure and compound wall facilities to the burial grounds / cremation grounds in urban areas.</li> </br>
-               <li> Provision of compound wall / fencing in the burial grounds belonging to public wakfs registered with wakf Board. Since the wakf Board does not have any Engineering wing, this work may be entrusted with the Local Bodies concerned.</li> </br>
-               <li> Construction of Public Distribution Shop Buildings.</li> </br>
-               <li> Construction of building for physical fitness centre / Gymnasium along with required equipments, which will be asset of the concerned local bodies.</li> </br>
-               <li> In Rural areas in addition to the above works, Construction of Integrated Sanitary Complexes for women and men can be taken up</li> </br>
-               <li> In urban areas in addition to the above works, Provision of Concrete Pavements with storm water drains, Formation of new Public Parks, Construction of Public Toilets and Purchase of Jetrodding machines and hydraulically operated sewerage machines may also be taken up.</li> </br>
-               <li> Works to be Taken Up Under Untied Component of Rs.90 lakh</li> </br>
+               <li> Installation of Solar Street Lights in rural areas/Roof top solar power in Government buildings/LED street lights in rural areas. </br></li>
+               <li> Upgradation of Gravel / WBM Roads to BT Standard </br></li>
+               <li> Renewal of badly worn-out BT roads (laying of BT layer only with filling up of potholes, if necessary) </br></li>
+               <li> Laying of Cement concrete Roads </br></li>
+               <li> Provision of rooms, buildings and / or compound walls for Government and Local Body Hospitals, Primary Health Centres, Government Veterinary Hospitals, Government Schools, Panchayat Union Schools, Adi Dravidar Welfare Schools, Kallar Reclamation Schools, Government Colleges, Government Hostels, Government ITIs and Government Polytechnics. </br></li>
+               <li> Provision of infrastructure facilities to Government Special Schools for the differently-abled and Government Orphanages. </br></li>
+               <li> Construction of Bridges. </br></li>
+               <li> Provision of additional Burial Grounds / Cremation Grounds to the Village Panchayats, such facilities and provision of infrastructure and compound wall facilities to the burial grounds / cremation grounds in urban areas. </br></li>
+               <li> Provision of compound wall / fencing in the burial grounds belonging to public wakfs registered with wakf Board. Since the wakf Board does not have any Engineering wing, this work may be entrusted with the Local Bodies concerned. </br></li>
+               <li> Construction of Public Distribution Shop Buildings. </br></li>
+               <li> Construction of building for physical fitness centre / Gymnasium along with required equipments, which will be asset of the concerned local bodies. </br></li>
+               <li> In Rural areas in addition to the above works, Construction of Integrated Sanitary Complexes for women and men can be taken up </br></li>
+               <li> In urban areas in addition to the above works, Provision of Concrete Pavements with storm water drains, Formation of new Public Parks, Construction of Public Toilets and Purchase of Jetrodding machines and hydraulically operated sewerage machines may also be taken up. </br></li>
+               <li> Works to be Taken Up Under Untied Component of Rs.90 lakh </br></li>
                </ol>
                <p>&emsp;Any works not falling within the following 'negative list / prohibited works' can be taken up under the Untied component of MLACDS. (Construction of Bus Passengers Shelters is permitted under this component)</p>
-               <h3>Installation of High Mast Lights.<h3></br>&emsp;
+               <h3>Installation of High Mast Lights.</h3>&emsp;
                     An overall allocation of 21% of the total allocation under MLACDS should be made for the areas predominantly inhabited by SC/ST persons in rural and persons living in slums in urban areas.`,
         link:`https://tnrd.gov.in/schemes/st_mlacds.php`
     },
@@ -174,16 +173,16 @@ const data = [
         desc: ` <p>&emsp;This Government recognized the community participation in collaborative decision-making, mediation, community building and consensus building to ensure an open and accountable process through which the individuals and groups could exchange views and promote useful community assets. Hence as a measure to promote public participation in Government Schemes, this Government has re introduced the Self Sufficiency Scheme in 2011-12.</p>
         <h3>Selection of Works</h3>
         <ul>
-            <li>The felt-need for taking up a work may originate from individuals, groups, institutions, public or private companies or from the community.</li> </br>
-            <li>The District Collector shall receive the application from the public on the work identified and also the consent letter for contributing not less than one third of the estimated cost.</li> </br>
-            <li>Estimates will be prepared only after ascertaining the need and the feasibility of the work proposed.</li> </br>
-            <li>In case the requirement exceeds the allocation, the District Collector shall arrange the works in the order of priority and accord administrative sanction.</li> </br>
-            <li>Commissioner of Rural Development and Panchayat Raj shall receive major contribution from public or private companies for specific projects to be implemented across the State.</li> </br>
+            <li>The felt-need for taking up a work may originate from individuals, groups, institutions, public or private companies or from the community. </br></li>
+            <li>The District Collector shall receive the application from the public on the work identified and also the consent letter for contributing not less than one third of the estimated cost. </br></li>
+            <li>Estimates will be prepared only after ascertaining the need and the feasibility of the work proposed. </br></li>
+            <li>In case the requirement exceeds the allocation, the District Collector shall arrange the works in the order of priority and accord administrative sanction. </br></li>
+            <li>Commissioner of Rural Development and Panchayat Raj shall receive major contribution from public or private companies for specific projects to be implemented across the State. </br></li>
         </ul>  
         <h3>List of Works</h3>
             <ol>
-               <li> Permitted Works</li> </br>
-               <li> Prohibited Works</li> </br>
+               <li> Permitted Works </br></li>
+               <li> Prohibited Works </br></li>
             </ol>
         <h3>Execution of Works</h3>
             <p>&emsp;Execution of works will be done by the Local Bodies or the Department concerned through tender as per the Tamil Nadu Transparency in Tenders Act 1998.</p>
@@ -194,9 +193,9 @@ const data = [
         title:`8. Rural Infrastructure Scheme`,
         desc: ` <p>&emsp;The objective of the Rural Infrastructure Scheme is to stabilize the assets created under MGNREGS and to maintain the basic infrastructure facilities especially the road network. This Government shall continue implementation of Rural Infrastructure Scheme.  During 2011-12 and 2012-13, an amount of Rs.250 crore per year had been allotted for this purpose under State Finance Commission Grant and the priority of the works has been given below:</p>
                 <ol>
-                <li>Upgradation of existing Earthen and Gravel roads into WBM roads;</li> </br>
-                <li>Upgradation of existing WBM roads into BT Roads;</li> </br>
-                <li>Repairs to the sluices, surplus weirs, construction of retaining wall in the water bodies desilted under MGNREGS; and</li> </br>
+                <li>Upgradation of existing Earthen and Gravel roads into WBM roads; </br></li>
+                <li>Upgradation of existing WBM roads into BT Roads; </br></li>
+                <li>Repairs to the sluices, surplus weirs, construction of retaining wall in the water bodies desilted under MGNREGS; and </br></li>
                 <li>Construction of culverts and retaining walls in the newly formed roads under MGNREGS.</li></br> 
                 </ol>`,
         link:`https://tnrd.gov.in/schemes/st_ris.html`

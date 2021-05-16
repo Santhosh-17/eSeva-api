@@ -31,6 +31,10 @@ const planSchema = new mongoose.Schema({
     type: String,
     required:true,
     minlength:10
+   },
+   urlToImage:{
+    type: String,
+    required:true,
    }
 
 });
@@ -49,7 +53,8 @@ function validatePlan(plan) {
         }),
         applicationprocess: Joi.string().min(10).trim().required(),
         timeline: Joi.string().trim(),
-        schemeapplicationlink: Joi.string().trim().required()
+        schemeapplicationlink: Joi.string().trim().required(),
+        urlToImage: Joi.string().trim().required()
     });
 
     return schema.validate(plan);

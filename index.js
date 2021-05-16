@@ -6,8 +6,8 @@ const fullPlan = require('./routes/fullPlans');
 const serviceRoutes = require('./routes/service');
 // const fullModel = require('./models/schemeModel');
 // const data = require('./data/fullDataPlan');
-// const serviceModel = require('./models/serviceModel');
-// const data = require('./data/servicesData');
+const serviceModel = require('./models/serviceModel');
+const data = require('./data/servicesData');
 const express = require('express');
 const app = express();
 
@@ -24,6 +24,6 @@ const port = process.env.PORT;
 app.listen(port, async () => {
     console.log(`Listening on port ${port}...`);
 //    await fullModel.insertMany(data);
-//    await serviceModel.insertMany(data);
+    await serviceModel.insertMany(data);
 }
 );
