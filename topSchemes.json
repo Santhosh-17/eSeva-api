@@ -7,10 +7,10 @@
             "minage": "N/A",
             "maxage": "N/A"
          },
-         "Application Process":  "This grant can be availed through the District Collector / District Adult Education Officer / District Educational Officer.",
-         "Timeline": "3 months before the start of an Academic Year" ,
-         "Scheme Application Link" :  "https://www.tn.gov.in/scheme/data_view/83379",
-         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/free%20education%20scheme.png?alt=media&token=5d95dbd9-8ed6-48ca-90da-bf2cc23fb474"
+         "applicationprocess":  "This grant can be availed through the District Collector / District Adult Education Officer / District Educational Officer.",
+         "timeline": "3 months before the start of an Academic Year" ,
+         "schemeapplicationlink" :  "https://www.tn.gov.in/scheme/data_view/83379",
+         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/FreeEdu.png?alt=media&token=5f3a891b-4bb8-4e14-a86e-4b31bb289e98"
     },
     {
         "title": "Scholarship for children of Agricultural labourers",
@@ -20,9 +20,9 @@
             "minage": "N/A",
             "maxage": "N/A"
          },
-         "Application Process":  "Application needs to be made to the school headmaster. Subsequently, the School administration is expected to approach the District Collector.",
-         "Timeline": "3 -6 months" ,
-         "Scheme Application Link" :  "https://www.tn.gov.in/scheme/data_view/83388",
+         "applicationprocess":  "Application needs to be made to the school headmaster. Subsequently, the School administration is expected to approach the District Collector.",
+         "timeline": "3 -6 months" ,
+         "schemeapplicationlink" :  "https://www.tn.gov.in/scheme/data_view/83388",
          "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/children%20for%20agriculture%20scheme.png?alt=media&token=6ffa05f2-8445-446e-a29f-e13e05ca1ee1"
     },
    {
@@ -49,7 +49,7 @@
          "applicationprocess": "Documents Required:\n\tThe following documents are required to apply for the scheme:-\n\t1.Proof for Age (18 to 40) / Date of birth\n\t2.Proof for Residence such as-\n\t\tEPIC card\n\t\tDriving License\n\t\tAadhar Card\n\t\tUtility Bills etc., in the Applicant’s name\n\t\tDriving License / Learner License Registration (LLR) issued by the competent authority\n\t\tIncome Certificate issued by Employer / Self Certification\n\t\tProof of Employment issued by the Employer/Organization/Project Head/Society in case of Wage / Salaried employment.\n\t\tAadhaar card.\n\t\tProof of Educational Qualification / Appearance for VIII standard exam (Transfer Certificate, SSLC, etc.,)\n\t\tPassport size photograph\n\tProof to establish membership of priority category, wherever applicable\n\tCommunity Certificate (in case of SC/ST category)\n\tDifferently Abled Identity Card issued by the competent authority\n\tQuotation/Pro-forma invoice of the vehicle.\n\n3.Specifications of Amma two wheeler:\n\tThe vehicle under Amma two-wheeler scheme will be brand new\n\tUnder this scheme, the vehicle provided to the beneficiary will have a maximum engine capacity of 125 cc\n\tThe vehicle will be any gearless or auto gear motorized two-wheeler that is chosen by the applicant\n\tThe Scooty should be manufactured on or after 1st January 2018\n\nApplication Procedure Under Amma Two Wheeler Scheme\n\tThe following application procedure should be followed by the applicants if they want to enroll under the scheme:-         \n\tThe applications form will be made available at all Block Offices, Urban Local Body offices, and the Collectorates free of cost to the applicant.\n\tAlso, you can download the application forms from the link given above.\n\tNo application fee should be collected from the applicant for the form.\n\tThe application forms will be filled and submitted to the respective Block offices / Urban Local Bodies (ULBs).\n\tThe filled-in Application forms can be submitted either in person or by Registered/ Speed Post.\n\tA unique application number will be assigned to each application form containing the ULB/RLB code followed by the running serial number within the ULB/RLB.",
          "timeline": "N/A",
          "schemeapplicationlink" :  "http://www.tamilnadumahalir.org/tnatws.html",
-         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/two%20wheeler%20scheme.png?alt=media&token=f5c1892e-06af-4849-93f7-daef98539723"
+         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/scooter.png?alt=media&token=e24ddb53-6669-46d4-8bff-c82f991799aa"
     
     },
     {
@@ -77,7 +77,7 @@
          "applicationprocess": "N/A",
          "timeline": "N/A",
          "schemeapplicationlink" :  "http://www.tnsocialwelfare.org/pages/view/marriage-assistance-schemes",
-         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/marriage%20assistance%20scheme%20I%20%26%20II.png?alt=media&token=6dc401aa-f18f-4bdc-8cb0-27234368ce96"
+         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/marriageAssistance.png?alt=media&token=560b236d-d31c-47bd-b066-7ba0a284d101"
     
     },
     {
@@ -105,7 +105,7 @@
          "applicationprocess": "N/A",
          "timeline": "N/A",
          "schemeapplicationlink" :   "http://www.tnsocialwelfare.org/pages/view/marriage-assistance-schemes",
-         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/dr.%20darmambal%20widow%20remarriage%20scheme.png?alt=media&token=91831b44-8f22-43f1-bf42-eccadf162584"
+         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/drDharmambal.png?alt=media&token=2043fa70-c72f-4c3d-bc5a-d7e5ff0c5e87"
     
     },
     {
@@ -119,7 +119,7 @@
          "applicationprocess": "To the District Social Welfare Officer / Extension Officer (SW)",
          "timeline": "3 months",
          "schemeapplicationlink" :   "http://www.tnsocialwelfare.org/pages/view/marriage-assistance-schemes",
-         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/evr%20maniammaiyar%20poor%20widow%20daughter%20scheme.jpg?alt=media&token=ec2ddc50-5a8e-481b-b61d-6d7ac9964d4e"
+         "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/evr.png?alt=media&token=61775693-7473-42bb-ab1a-a5ceb9f6a3f8"
     
     },
     {
@@ -135,19 +135,5 @@
          "schemeapplicationlink" :  "http://www.tnsocialwelfare.org/pages/view/marriage-assistance-schemes",
          "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/marriage%20scheme%20handicap%20marry%20normal%20person.png?alt=media&token=a17c4efa-4e0b-4d38-a55e-a00cd166a648"
     
-    },
-    {
-        "title" : "Dr. Muthulakshmi Reddy Ninaivu Inter-Caste Marriage Assistance Scheme",
-        "benefits": "Under this scheme, Rs 15,000 is given out of which Rs. 10,000 is given through NCS and Rs 5,000 as cheque or DD.  In case one of the spouses belongs to SC/ST community, an assistance of Rs. 20,000 is provided, 10,00 as NSC and 10,000 as cheque or DD.",
-        "eligibility": {
-           "description": "No income ceiling or minimum education qualification stipulated.  Age limit of 18-30 years for the bride.  Time limit for sending application is 45 days before marriage",
-           "minage": "18",
-           "maxage": "30"
-        },
-        "applicationprocess": "District Social Welfare Officer / Extension Officers (SW)",
-        "timeline": "3 Months",
-        "schemeapplicationlink" :  "https://www.tnsocialwelfare.org/pages/view/marriage-assistance-schemes",
-        "urlToImage":"https://firebasestorage.googleapis.com/v0/b/eseva-d4b3b.appspot.com/o/intercasteMarriage.jpg?alt=media&token=e8f1f07d-addb-49b3-9dc9-9b7b479750de"
-   }
-
+    }
 ]

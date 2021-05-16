@@ -6,6 +6,10 @@ const serviceSchema = new mongoose.Schema({
        required:true,
        minlength:3,
    },
+   preview:{
+    type: String,
+    required:true,
+   },
    desc: {
     type: String,
     required:true,

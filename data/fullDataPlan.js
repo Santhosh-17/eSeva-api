@@ -1,6 +1,7 @@
 const data = [
     {
-        title: `1.Tamil Nadu Village Habitations Improvement (THAI) Scheme`,
+        title: `Tamil Nadu Village Habitations Improvement (THAI) Scheme`,
+        preview:`This Government has introduced the flagship programme called Tamil Nadu Village Habitations Improvement (THAI) Scheme from 2011-12 onwards to overcome the bottlenecks in the uneven distribution of resources and to provide minimum basic infrastructure facilities to all the habitations. Tamil Nadu is the only State focusing on ‘Habitation’ as the unit of development and no other State in the Country is implementing such an innovative scheme.`,
         desc: `<p>&emsp;This Government has introduced the flagship programme called Tamil Nadu Village Habitations Improvement (THAI) Scheme from 2011-12 onwards to overcome the bottlenecks in the uneven distribution of resources and to provide minimum basic infrastructure facilities to all the habitations. Tamil Nadu is the only State focusing on ‘Habitation’ as the unit of development and no other State in the Country is implementing such an innovative scheme.</p>
             <p>&emsp;There are about 6 habitations on an average for each Village Panchayat in Tamil Nadu with 79,394 habitations in 12,524 Village Panchayats. However, the number of habitations varies from District to district. The average number of habitations in a Village Panchayat in The Nilgiris District is 37 whereas it is only 3 in Villupuram District. Therefore, allocation of equal amount to all the Village Panchayats, with varied number of habitations, has led to disparity in development, disproportionate distribution of assets and uneven progress. The THAI scheme has come as boon with the aim of extending the basic facilities to the grass root habitation.</p>
         
@@ -30,9 +31,9 @@ const data = [
         link: `https://tnrd.gov.in/schemes/st_thai.php`
     },
     {
-        title:`2.Chief Minister Solar Powered Green House Scheme (CMSPGHS)`,
-        desc: `
-        <p>&emsp;In the Governor’s address on 03.06.2011 in the Legislative Assembly, it was announced that “This Government will launch a ‘Solar Powered Green House Scheme’ for the benefit of the poor in the rural areas and construct houses measuring about 300 square feet at a unit cost of Rs.1.80 lakh by meeting the entire cost by the State  Government”. </p>
+        title:`Chief Minister Solar Powered Green House Scheme (CMSPGHS)`,
+        preview:`In the Governor’s address on 03.06.2011 in the Legislative Assembly, it was announced that “This Government will launch a ‘Solar Powered Green House Scheme’ for the benefit of the poor in the rural areas and construct houses measuring about 300 square feet at a unit cost of Rs.1.80 lakh by meeting the entire cost by the State  Government”.`,
+        desc: `<p>&emsp;In the Governor’s address on 03.06.2011 in the Legislative Assembly, it was announced that “This Government will launch a ‘Solar Powered Green House Scheme’ for the benefit of the poor in the rural areas and construct houses measuring about 300 square feet at a unit cost of Rs.1.80 lakh by meeting the entire cost by the State  Government”. </p>
         <p>&emsp;Accordingly, this Government had ordered for construction of 60,000 Solar Powered Green Houses of 300 square feet each, every year for the next five years commencing from 2011-12 at a unit cost of Rs.1.80 lakhs per house.  The scheme is named as “Chief Minister’s Solar Powered Green House Scheme (CMSPGHS).”</p>
         
         <p>&emsp;Construction of houses under “Chief Minister’s Solar Powered Green House Scheme” ordered by the Honourable Chief Minister is another milestone in the history of rural housing which clearly addresses the  shelter needs in rural areas. Nowhere in the country is such a free housing scheme for the construction of houses with an area of 300 sq.ft with solar powered lighting implemented.</p>
@@ -113,14 +114,16 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_cmspghs.php`
     },
     {
-        title:`3. Energisation of Street Lights with Solar Energy`,
+        title:`Energisation of Street Lights with Solar Energy`,
+        preview:`Energisation of Street Lights with Solar Power is a State funded scheme announced by the Hon’ble Chief Minister in the year 2011-12, under which the existing street lights in the Village Panchayats will be replaced with solar powered street lights with an objective of reduction in the maintenance expenditure and promote the concept of renewable energy in rural areas.`,
         desc: `<p>&emsp;Energisation of Street Lights with Solar Power is a State funded scheme announced by the Hon’ble Chief Minister in the year 2011-12, under which the existing street lights in the Village Panchayats will be replaced with solar powered street lights with an objective of reduction in the maintenance expenditure and promote the concept of renewable energy in rural areas.</p>
               <p>&emsp;This programme is implemented in the Village Panchayats on an experimental basis.  Initially, 1 lakh street lights will be taken up in 1,000 Village Panchayats for replacement with solar power over a period of 5 years from 2011-12. The Government has sanctioned a sum of Rs.52.50 crore for energisation of 20,000 street lights with solar power in Village Panchayats for the year 2011-12.  Tamil Nadu Energy Development Agency (TEDA) is the Executing Agency.  15,020 street lights have been energised so far with solar power.  The balance will be completed before the end of March, 2013.</p> 
               <p>&emsp;The Government has issued orders for energisation of 20,000 street lights with solar power and also sanctioned Rs.52.83 crore for the year 2012-13.  The District Collectors have identified the locations, habitations and Village Panchayats where the street lights are to be energized with solar power and furnished the consolidated list to the Tamil Nadu Energy Development Agency. The TEDA has called for tender and the same will be finalized before the end of March, 2013 and the works will be commenced through the TEDA from April, 2013 onwards.</p> `,
         link:`https://tnrd.gov.in/schemes/st_eslse.php`
     },
     {
-        title:`4. Comprehensive School Infrastructure Development Scheme (CSIDS)`,
+        title:`Comprehensive School Infrastructure Development Scheme (CSIDS)`,
+        preview:`This Government has launched the  Comprehensive School Infrastructure Development Scheme (CSIDS) during 2011-12 with an objective of providing basic infrastructure facilities like New Buildings, Kitchen sheds, Water supply, Toilets, etc., in the Panchayat Union Primary and Middle Schools in rural areas.  Repairs and renovation of the existing facilities will also be taken up wherever necessary.`,
         desc: `<p>&emsp;This Government has launched the  Comprehensive School Infrastructure Development Scheme (CSIDS) during 2011-12 with an objective of providing basic infrastructure facilities like New Buildings, Kitchen sheds, Water supply, Toilets, etc., in the Panchayat Union Primary and Middle Schools in rural areas.  Repairs and renovation of the existing facilities will also be taken up wherever necessary.</p>
                 <p>&emsp;New school buildings will be constructed with RCC roof with weathering course on the basis of the strength of the students.  The space available in the school premises will be used for the new construction and if adequate space is not available, a new floor will be added to the existing RCC Buildings after assessing the structural stability of the building.</p>
                 <p>&emsp;New kitchen sheds will be taken up in those schools where kitchen sheds are not available and the existing damaged kitchen sheds will be taken up for repair and renovation.  Additional rooms/store rooms may also be constructed for stocking the commodities.</p>
@@ -132,7 +135,8 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_csids.php`
     },
     {
-        title:`5. Member of Legislative Assembly Constituency Development Scheme (MLACDS)`,
+        title:`Member of Legislative Assembly Constituency Development Scheme (MLACDS)`,
+        preview:`The MLACDS is fully funded by the State Government and each MLA identifies and proposes the works to be executed in his Constituency. The Scheme is implemented both in rural and urban areas. The main objective of the Scheme is to identify and implement the essential works to bridge the critical infrastructure gaps in the Assembly Constituencies. The allocation of funds under the Scheme had been increased from Rs.1.75 crore to Rs.2.00 crore per Constituency per annum from 2011-2012 onwards.`,
         desc: `<p>&emsp;The MLACDS is fully funded by the State Government and each MLA identifies and proposes the works to be executed in his Constituency. The Scheme is implemented both in rural and urban areas. The main objective of the Scheme is to identify and implement the essential works to bridge the critical infrastructure gaps in the Assembly Constituencies. The allocation of funds under the Scheme had been increased from Rs.1.75 crore to Rs.2.00 crore per Constituency per annum from 2011-2012 onwards.</p>
                <p>&emsp;Member of Legislative Assembly Constituency Development Scheme (MLACDS)</p>
         
@@ -163,14 +167,16 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_mlacds.php`
     },
     {
-        title:`6. Rural Buildings Maintenance and Renovation Scheme (RBMRS)`,
+        title:`Rural Buildings Maintenance and Renovation Scheme (RBMRS)`,
+        preview:`Rural Buildings Maintenance and Renovation Scheme (RBMRS) was introduced with an objective of routine maintenance of  rural Local Bodies assets. Continuous and proper maintenance of the buildings should be done so as to have the full utilisation of the assets created. The assets of the rural Local Bodies such as Anganwadi Centers, Panchayat office buildings, Overhead tanks, Integrated Sanitary Complexes for Women,  etc., have been taken up for renovation under the Scheme.`,
         desc: `<p>Rural Buildings Maintenance and Renovation Scheme (RBMRS) was introduced with an objective of routine maintenance of  rural Local Bodies assets. Continuous and proper maintenance of the buildings should be done so as to have the full utilisation of the assets created. The assets of the rural Local Bodies such as Anganwadi Centers, Panchayat office buildings, Overhead tanks, Integrated Sanitary Complexes for Women,  etc., have been taken up for renovation under the Scheme.</p>
                <p>During the year 2011- 12, renovation of 12,796 Integrated Sanitary Complexes for Women was carried out exclusively under the Scheme with an allocation of Rs.170 crore and all the complexes were brought back to usable condition.  Similarly, during the year 2012-13, repairs and renovation of Over Head Tanks, Ground Level Reservoirs and main pipelines were taken up with the allocation of Rs. 175.22 crore under the Scheme.</p> `,
         link:`https://tnrd.gov.in/schemes/st_rbrms_13.php`
     },
     {
-        title:`7. Self Sufficiency Scheme (SSS)`,
-        desc: ` <p>&emsp;This Government recognized the community participation in collaborative decision-making, mediation, community building and consensus building to ensure an open and accountable process through which the individuals and groups could exchange views and promote useful community assets. Hence as a measure to promote public participation in Government Schemes, this Government has re introduced the Self Sufficiency Scheme in 2011-12.</p>
+        title:`Self Sufficiency Scheme (SSS)`,
+        preview:`This Government recognized the community participation in collaborative decision-making, mediation, community building and consensus building to ensure an open and accountable process through which the individuals and groups could exchange views and promote useful community assets. Hence as a measure to promote public participation in Government Schemes, this Government has re introduced the Self Sufficiency Scheme in 2011-12.`,
+        desc: `<p>&emsp;This Government recognized the community participation in collaborative decision-making, mediation, community building and consensus building to ensure an open and accountable process through which the individuals and groups could exchange views and promote useful community assets. Hence as a measure to promote public participation in Government Schemes, this Government has re introduced the Self Sufficiency Scheme in 2011-12.</p>
         <h3>Selection of Works</h3>
         <ul>
             <li>The felt-need for taking up a work may originate from individuals, groups, institutions, public or private companies or from the community. </br></li>
@@ -190,8 +196,9 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_sss.html`
     },
     {
-        title:`8. Rural Infrastructure Scheme`,
-        desc: ` <p>&emsp;The objective of the Rural Infrastructure Scheme is to stabilize the assets created under MGNREGS and to maintain the basic infrastructure facilities especially the road network. This Government shall continue implementation of Rural Infrastructure Scheme.  During 2011-12 and 2012-13, an amount of Rs.250 crore per year had been allotted for this purpose under State Finance Commission Grant and the priority of the works has been given below:</p>
+        title:`Rural Infrastructure Scheme`,
+        preview:`The objective of the Rural Infrastructure Scheme is to stabilize the assets created under MGNREGS and to maintain the basic infrastructure facilities especially the road network. This Government shall continue implementation of Rural Infrastructure Scheme.  During 2011-12 and 2012-13, an amount of Rs.250 crore per year had been allotted for this purpose under State Finance Commission Grant and the priority of the works`,
+        desc: `<p>&emsp;The objective of the Rural Infrastructure Scheme is to stabilize the assets created under MGNREGS and to maintain the basic infrastructure facilities especially the road network. This Government shall continue implementation of Rural Infrastructure Scheme.  During 2011-12 and 2012-13, an amount of Rs.250 crore per year had been allotted for this purpose under State Finance Commission Grant and the priority of the works has been given below:</p>
                 <ol>
                 <li>Upgradation of existing Earthen and Gravel roads into WBM roads; </br></li>
                 <li>Upgradation of existing WBM roads into BT Roads; </br></li>
@@ -201,7 +208,8 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_ris.html`
     },
     {
-        title:`9. Renovation of Integrated Sanitary Complex for Women`,
+        title:`Renovation of Integrated Sanitary Complex for Women`,
+        preview:`Provision of sanitary facilities for women was one of the priority areas of the Rural Development Department when this Government was in power in 2001.  The non availability of sanitary facilities impacts women and they suffer in silence.  Absence of sanitary facilities is primarily due to both poverty and cultural inhibitions, which had to be overcome.  Therefore, it was of paramount importance to ensure privacy and safety to women besides improving general hygiene and health to the rural people.`,
         desc: `<p>&emsp;Provision of sanitary facilities for women was one of the priority areas of the Rural Development Department when this Government was in power in 2001.  The non availability of sanitary facilities impacts women and they suffer in silence.  Absence of sanitary facilities is primarily due to both poverty and cultural inhibitions, which had to be overcome.  Therefore, it was of paramount importance to ensure privacy and safety to women besides improving general hygiene and health to the rural people.</p>
                <p>&emsp;The Government in 2001 decided to build Integrated Sanitary Complexes for Women in all the 12,618 Village Panchayats in the State, at an approximate area of 750 sq.ft. each. The selected sites were easily accessible to the rural women and nearer to the habitations.  Each complex had 14 water closets, 2 bathrooms, 1 pump room with pump set, 1 water tub and stone-paved washing facilities.  Adequate water supply for washing and bathing requirements were also ensured.  The total users were identified and grouped for the purpose of allocation of individual toilets within the complex.  The Village Panchayats provided electricity connection for water supply and lighting and the allotted families maintained the upkeep of the complex.  The complexes were provided with incinerators for disposal of the sanitary napkins of the user women.</p>
                <p>&emsp;Initially, 385 Integrated Sanitary Complexes for Women were constructed at the rate of 1 per Panchayat Union at a cost of</p>
@@ -210,7 +218,8 @@ const data = [
         link:`https://tnrd.gov.in/schemes/st_riscw.html`
     },
     {
-        title:`10.Integrated Men Sanitary Complex (IMSC)`,
+        title:`Integrated Men Sanitary Complex (IMSC)`,
+        preview:`The Integrated Sanitary Complexes for Women have created a revolution in the sanitation front across the State. Similar to the facilities created for the rural women folk and based on the demand  raised by rural men for such facilities, the Hon’ble  Chief Minister has ordered the provision of  Integrated Men Sanitary  Complexes (IMSC), initially,  at the rate of two Complexes per Block during 2012-13.  In Tamil Nadu, 770 Integrated Men Sanitary Complexes have been taken up for construction in 385 Blocks at a cost of Rs.35 crore during 2012-13.`,
         desc: `<p>&emsp;The Integrated Sanitary Complexes for Women have created a revolution in the sanitation front across the State. Similar to the facilities created for the rural women folk and based on the demand  raised by rural men for such facilities, the Hon’ble  Chief Minister has ordered the provision of  Integrated Men Sanitary  Complexes (IMSC), initially,  at the rate of two Complexes per Block during 2012-13.  In Tamil Nadu, 770 Integrated Men Sanitary Complexes have been taken up for construction in 385 Blocks at a cost of Rs.35 crore during 2012-13.</p>
         
                 <p>&emsp;The District Collectors have identified the sites for construction of IMSCs taking into account the various parameters and local requirements like  prevalence of open defecation, predominance  of houses without toilets, availability of water supply, etc.  The total area of the Complex is 570 sq.ft.  Each complex has 8 toilets in which one toilet is provided with western closet for the benefit of the aged/differently abled and one is a baby friendly toilet.  Separate area for bathing, water tub and stone-paved washing facilities are also provided. Exclusive water supply is ensured in each Complex for sustainability and usage.  User Groups are formed and are involved from the construction stage itself. Similar to the maintenance of Integrated Sanitary Complexes for Women, these User Groups will take up the day to day maintenance and periodical maintenance will be done by the Village Panchayats concerned.   Corporate bodies and NGOs will also be encouraged to take part in the maintenance of these complexes along with the User Groups.</p>`,
