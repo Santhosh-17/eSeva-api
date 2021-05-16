@@ -24,6 +24,6 @@ const port = process.env.PORT;
 app.listen(port, async () => {
     console.log(`Listening on port ${port}...`);
 //    await fullModel.insertMany(data);
-    await serviceModel.insertMany(data);
+//  await serviceModel.insertMany(data);
 }
 );

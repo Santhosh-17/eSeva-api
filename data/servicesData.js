@@ -4,7 +4,7 @@ const data = [
         preview:`We all know that the Tamil Nadu government has started the digitalization of the ration card. The application of the TNPDS Ration Card is also submitted through online mode and the distribution is also done through online mode. Today under this article, we will share step by step procedure through which you apply for the digital ration card in Tamil Nadu State. We will also share step by step procedure through which you can check the status of your smart Ration card online. In this app, we will share the specifications of the digital ration card in Tamilnadu state.`,
         desc: `<p>&emsp;We all know that the Tamil Nadu government has started the digitalization of the ration card. The application of the TNPDS Ration Card is also submitted through online mode and the distribution is also done through online mode. Today under this article, we will share step by step procedure through which you apply for the digital ration card in Tamil Nadu State. We will also share step by step procedure through which you can check the status of your smart Ration card online. In this app, we will share the specifications of the digital ration card in Tamilnadu state.</p></br> 
         <h3>Objectives Of Tamil Nadu Digital Ration Card</h3></br>
-        <h2>&emsp;The following objectives will be fulfilled by the inauguration of the smart ration card in Tamilnadu:-</h2> 
+        <h4>&emsp;The following objectives will be fulfilled by the inauguration of the smart ration card in Tamilnadu:-</h4> 
         <ul>
             <li>The implementation of the fraudulent practices will be prevented.</li></br>
             <li>The information of the resident will be authentic.</li></br>
@@ -15,7 +15,7 @@ const data = [
             <li>The process of implementing a digital ration card will provide transparency to the residents.</li></br>
         </ul></br> 
         <h3>Important Documents</h3></br>
-        <h2>&emsp;The following documents are required while applying for the digital ration card in Tamilnadu:-</h2> 
+        <h4>&emsp;The following documents are required while applying for the digital ration card in Tamilnadu:-</h4> 
         <ul>
             <li>Aadhar Card</li></br>
             <li>Pan Card</li></br>
@@ -26,7 +26,7 @@ const data = [
             <li>Electricity bill</li></br>
         </ul></br>        
         <h3>TNPDS Ration Card Online Application Form</h3></br>
-        <h2>&emsp;To apply for the digital Ration card via online mode, you need to follow the simple steps given below:-<h2>
+        <h4>&emsp;To apply for the digital Ration card via online mode, you need to follow the simple steps given below:-</h4>
         <ul>
             <li>First, visit the official website of the TNPDS department.</li></br>
             <li>Click on the smart card application option present on the home page.</li></br>
@@ -40,7 +40,7 @@ const data = [
             <li> Keep safe for future use.</li></br>
         </ul></br>
         <h3>TNPDS Application Procedure By Ration Shop (Offline)<h3></br>
-        <h2>&emsp;If you are not able to apply for the card via online mode then you can follow the simple steps by visiting the ration shop:-</h2>
+        <h4>&emsp;If you are not able to apply for the card via online mode then you can follow the simple steps by visiting the ration shop:-</h4>
         <ul>
             <li>First, visit the respective ration shop.</li></br>
             <li>From the shop, collect the application form.</li></br>
@@ -62,7 +62,7 @@ const data = [
         <h3>Tamil Nadu Inter District E Pass</h3></br>
         <p>Tamil Nadu Chief Minister Edappadi K Palaniswami has announced last week that now e pass will issue to the individuals within 24 hours for inter-district travel. Yet the government is issuing passes for marriage, medical emergency, close relative’s death, Govt. Tender bidding, Ongoing Govt. work or if stranded only. But now passes will issue to the individuals who want to return home and stuck in other districts of the state. For travelling through private vehicles e pass is mandatory.</p></br>
         <h3>Eligible Candidates</h3></br>
-        <h2>Only the following candidates are eligible to apply for the Tamilnadu COVID-19 Epass:-</h2></br>
+        <h4>Only the following candidates are eligible to apply for the Tamilnadu COVID-19 Epass:-</h4></br>
         <ol>
             <li>Government duties</li></br>
             <li>Police</li></br>
@@ -84,7 +84,7 @@ const data = [
             <li>Supply of Essential Goods</li></br>
         </ol></br>
         <h3>Decalaration Of TN Epass</h3></br>
-        <h2>The following declaration has to be made by the beneficiaries who are applying for the Epass:-</h2></br>
+        <h4>The following declaration has to be made by the beneficiaries who are applying for the Epass:-</h4></br>
         <ol>
             <li>The principal announcement is that the data given by you in the application structure is consistent with your insight and in the event that on check distinctions discovered incorrect or speak to dishonestly, at that point legitimate move will be made against the candidate.</li></br>
             <li>The subsequent one is that not all candidates are fortunate to get the E-pass, some application could be dismissed without giving any notification so you have to concur with that and you can’t protest on this.</li></br>
@@ -160,7 +160,7 @@ const data = [
                 
         <h3>Documents Required for Application</h3>
                 
-            <h2>To apply for a death certificate requires the following documents:-</h2>
+            <h4>To apply for a death certificate requires the following documents:-</h4>
             <ol>    
                 <li>Birth certificate of the deceased.</li></br>
                 <li>An affidavit stating the date and time of death.</li></br>
@@ -168,7 +168,7 @@ const data = [
             </ol>
         <h3>Government Fee Structure</h3>
                 
-        <h2>The fee for a death certificate varies under different conditions.</h2>
+        <h4>The fee for a death certificate varies under different conditions.</h4>
             <ol>   
                 <li>A fee of Rs. 25 has to be paid for each copy.</li></br>
                 <li>If the date of death is unknown or unspecified, the search fee for every year is Rs. 25(per copy).</li></br>
